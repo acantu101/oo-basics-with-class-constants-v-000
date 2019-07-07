@@ -10,7 +10,7 @@ class Shoe
 
     BRANDS.each do |e|
       if e == e
-        clear e
+        BRANDS.clear(e)
       end
   end
 
