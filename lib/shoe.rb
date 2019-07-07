@@ -7,6 +7,11 @@ class Shoe
   def initialize(brand)
     @brand = brand
     BRANDS << brand
+
+    BRANDS.each do |e|
+      if e == e
+        clear e
+      end
   end
 
 
