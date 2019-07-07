@@ -12,6 +12,7 @@ class Shoe
       if e == e
         BRANDS.clear(e)
       end
+    end
   end
 
 
